@@ -1,0 +1,3 @@
+MongoDB connection string
+
+mongodb+srv://<username>:<password>@tutorial3.dl1ju2q.mongodb.net/
